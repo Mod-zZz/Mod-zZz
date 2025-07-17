@@ -3,7 +3,7 @@
 <!-- Banner superior: reemplaza la URL por la de tu banner -->
 <p align="center">
   <img
-    src="[https://media.licdn.com/dms/image/v2/D4E16AQGeW__yuORX-A/profile-displaybackgroundimage-shrink_200_800/B4EZUo3PzIH0AU-/0/1740147326921?e=2147483647&v=beta&t=hj-9o_9Nk2e2F4XrIkfKVV5TGpFXyQbqriYSTuDsA7Q](https://media.licdn.com/dms/image/v2/D4E16AQGeW__yuORX-A/profile-displaybackgroundimage-shrink_200_800/B4EZUo3PzIH0AU-/0/1740147326921?e=2147483647&v=beta&t=hj-9o_9Nk2e2F4XrIkfKVV5TGpFXyQbqriYSTuDsA7Q)"
+    src="https://media.licdn.com/dms/image/v2/D4E16AQGeW__yuORX-A/profile-displaybackgroundimage-shrink_200_800/B4EZUo3PzIH0AU-/0/1740147326921?e=2147483647&v=beta&t=hj-9o_9Nk2e2F4XrIkfKVV5TGpFXyQbqriYSTuDsA7Q"
     alt="Banner de Enrique Becerra"
     width="800"
   />
