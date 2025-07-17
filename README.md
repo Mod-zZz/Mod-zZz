@@ -67,14 +67,22 @@ _App híbrida para gestión de datos con Firebase y Node.js._
 
 ---
 
-## 📊 Mis estadísticas de GitHub
+## 📌 Mis Hitos & Estadísticas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mod-zZz&color=blue" alt="Profile Views"/>
+  <!-- Años de experiencia -->
+  <img src="https://img.shields.io/badge/Experiencia-6%2B%20años-blue" alt="Experiencia"/>
+  <!-- Apps publicadas en Play Store -->
+  <img src="https://img.shields.io/badge/Apps_Publicadas-2-green" alt="Apps publicadas"/>
+  <!-- Apps en proceso (App Store) -->
+  <img src="https://img.shields.io/badge/Apps_En_Proceso-1-yellow" alt="Apps en proceso"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mod-zZz&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mod-zZz&layout=compact&theme=dark" alt="Top Languages" width="300"/>
+  <!-- Calendario de contribuciones -->
+  <img src="https://ghchart.rshah.org/Mod-zZz" alt="GitHub Contributions Chart"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mod-zZz&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -82,9 +90,20 @@ _App híbrida para gestión de datos con Firebase y Node.js._
 ## 📫 ¡Hablemos!
 
 <p align="center">
-  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">📸 Instagram</a> •
-  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">💼 LinkedIn</a>
+  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-@dev_en_proceso-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Enrique%20Becerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
+
 
 ---
 
