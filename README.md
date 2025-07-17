@@ -65,24 +65,25 @@ _App híbrida para gestión de datos con Firebase y Node.js._
   <img src="https://your-cdn.com/proyecto-dos-2.png" width="200"/>
 </p>
 
+
 ---
 
-## 📌 Mis Hitos & Estadísticas
+
+## 📫 ¡Hablemos!
 
 <p align="center">
-  <!-- Años de experiencia -->
-  <img src="https://img.shields.io/badge/Experiencia-6%2B%20años-blue" alt="Experiencia"/>
-  <!-- Apps publicadas en Play Store -->
-  <img src="https://img.shields.io/badge/Apps_Publicadas-2-green" alt="Apps publicadas"/>
-  <!-- Apps en proceso (App Store) -->
-  <img src="https://img.shields.io/badge/Apps_En_Proceso-1-yellow" alt="Apps en proceso"/>
-</p>
-
-<p align="center">
-  <!-- Calendario de contribuciones -->
-  <img src="https://ghchart.rshah.org/Mod-zZz" alt="GitHub Contributions Chart"/>
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mod-zZz&theme=dark" alt="GitHub Streak"/>
+  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-@dev_en_proceso-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Enrique%20Becerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
 
