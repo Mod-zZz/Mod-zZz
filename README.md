@@ -85,25 +85,6 @@ _App híbrida para gestión de datos con Firebase y Node.js._
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mod-zZz&theme=dark" alt="GitHub Streak"/>
 </p>
 
----
-
-## 📫 ¡Hablemos!
-
-<p align="center">
-  <a href="https://www.instagram.com/dev_en_proceso/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-@dev_en_proceso-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/enrique-becerra-bo" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Enrique%20Becerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
-
 
 ---
 
